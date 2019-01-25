@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.joeroccio.com/blog/first/</loc>
+    <lastmod>2019-01-25T12:57:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.joeroccio.com/about/</loc>
+    <lastmod>2019-01-25T12:31:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.joeroccio.com/blog/</loc>
+    <lastmod>2019-01-25T12:57:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joeroccio.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joeroccio.com/</loc>
+    <lastmod>2019-01-25T12:57:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joeroccio.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

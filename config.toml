@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://example.org/"
+baseurl = "http://www.joeroccio.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -58,13 +58,13 @@ linkedin = "jroccio"
 #snapchat = "<username>"
 #youtube = "<username>"
 #keybase = "<username>"
-twitch = "<username>"
+#twitch = "<username>"
 #soundcloud = "<username>"
 #tumblr = "<username>"
 #skype = "<username>"
 #telegram = "<username>"
 #whatsapp = "<username>"
-email = "you@example.com"
+email = "josephroccio@gmail.com"
 
 ## Extras
 [params.extra]
@@ -88,4 +88,4 @@ socialmarkup = true
     name = "resume"
     identifier = "resume"
     weight = 300
-    url = "/resume/"
+    url = "/static/resume.pdf"
