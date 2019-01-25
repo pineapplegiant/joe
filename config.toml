@@ -7,7 +7,7 @@ languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 author = "Joe Roccio"
 title = "Joe Roccio"
