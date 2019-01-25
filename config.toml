@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://www.joeroccio.com/"
+baseurl = "https://www.joeroccio.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -88,4 +88,4 @@ socialmarkup = true
     name = "resume"
     identifier = "resume"
     weight = 300
-    url = "/static/resume.pdf"
+    url = "https://github.com/timeharvest/joe/raw/master/static/resume.pdf"
